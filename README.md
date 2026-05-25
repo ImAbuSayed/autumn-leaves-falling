@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/autumn-leaves-falling/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Autumn Leaves Falling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/autumn-leaves-falling/) |
+| **Get License** | [Request Licensing for Autumn Leaves Falling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/autumn-leaves-falling/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `140d2ca873b5df6af39e0c10cb4dac5e717cc29b0fdfdb19da87db334163d6b6` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

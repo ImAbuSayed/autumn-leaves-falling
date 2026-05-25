@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Autumn Leaves Falling
+
+This log tracks the cryptographic history and versioning for the song **Autumn Leaves Falling** (autumn-leaves-falling).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T14:23:20.077783 | `v1` | `140d2ca873b5df6af39e0c10cb4dac5e717cc29b0fdfdb19da87db334163d6b6` | `85858da4f24c44a6b28e752a513c31273063810b13d3ddd370167ff08e10e409` | `2026-05-25_autumn-leaves-falling-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
